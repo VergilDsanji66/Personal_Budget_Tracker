@@ -1,0 +1,72 @@
+Nr,Account,Posting Date,Transaction Date,Description,Original Description,Parent Category,Category,Money In,Money Out,Fee,Balance
+1,1751158630,2025-03-01,2025-03-01 02:31,Live Better Interest Sweep,LB Interest sweep | FEB 2025,Transfer,Transfer,,-0.16,,23.10
+2,1751158630,2025-03-03,2025-03-03 11:58,Cash Deposit: Cash Dep Thohoyadou Ncr Thohoyadou T U1d,Cash Dep Thohoyadou   NCR  Thohoyadou T U1d,Cash Deposit,Cash Deposit,200.00,,,223.10
+3,1751158630,2025-03-03,2025-03-03 11:58,Cash Deposit Fee (Notes),Cash Deposit Fee (Notes),Fees,Fees,,,-2.80,220.30
+4,1751158630,2025-03-03,2025-03-03 13:02,Transfer from Live Better Savings Account (1907836622),Transfer from Live Better Savings Account (1907836622),Transfer,Transfer,1.16,,,221.46
+5,1751158630,2025-03-03,2025-03-03 13:24,Payment Received: O Sithagu,O SITHAGU,Other Income,Other Income,9.00,,,230.46
+6,1751158630,2025-03-03,2025-03-03 13:27,Banking App Immediate Payment: Sthe,STHE,Personal & Family,Digital Payments,,-200.00,,30.46
+7,1751158630,2025-03-03,2025-03-03 13:27,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1.00,29.46
+8,1751158630,2025-03-08,2025-03-08 12:18,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,50.00,,,79.46
+9,1751158630,2025-03-10,2025-03-08 12:39,BP Venda (Card 2310),BP TSIANDA - CSTORE BP VENDA        ZAZA,Transport,Fuel,,-4.00,,75.46
+10,1751158630,2025-03-10,2025-03-08 12:38,BP Venda (Card 2310),BP TSIANDA - CSTORE BP VENDA        ZAZA,Transport,Fuel,,-36.00,,39.46
+11,1751158630,2025-03-13,2025-03-13 20:46,Payment Received: U Dzivhani,U DZIVHANI,Other Income,Other Income,15.00,,,54.46
+12,1751158630,2025-03-14,2025-03-14 11:08,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,160.00,,,214.46
+13,1751158630,2025-03-15,2025-03-15 14:40,Banking App PayShap Payment: **** Mafumo (066 417 7737),**** MAFUMO |+27-664177737,Personal & Family,Digital Payments,,-20.00,,194.46
+14,1751158630,2025-03-15,2025-03-15 14:40,PayShap Payment Fee,|**** MAFUMO |+27-664177737,Fees,Fees,,,-1.00,193.46
+15,1751158630,2025-03-16,2025-03-14 11:12,Caltex Lwamondo (Card 2310),CALTEX LWAMONDO        LWAMONDO     LPZA,Transport,Fuel,,-56.00,,137.46
+16,1751158630,2025-03-16,2025-03-14 11:13,Caltex Lwamondo (Card 2A310),CALTEX LWAMONDO        LWAMONDO     LPZA,Transport,Fuel,,-100.00,,37.46
+17,1751158630,2025-03-19,2025-03-19 12:06,Banking App PayShap PaAyment: **** Chauke (082 041 7174),**** CHAUKE |+27-820417174,Personal & Family,Digital Payments,,-5.00,,32.46
+18,1751158630,2025-03-19,2025-03-19 12:06,PayShap Payment Fee,|**** CHAUKE |+27-820417174,Fees,Fees,,,-1.00,31.46
+19,1751158630,2025-03-19,2025-03-19 18:15,Payment Received: R Manakela,R MANAKELA,Other Income,Other Income,90.00,,,121.46
+20,1751158630,2025-03-19,2025-03-19 18:57,Banking App PayShap Payment: **** Mafumo (066 417 7737),**** MAFUMO |+27-664177737,Personal & Family,Digital Payments,,-28.00,,93.46
+21,1751158630,2025-03-19,2025-03-19 18:57,PayShap Payment Fee,|**** MAFUMO |+27-664177737,Fees,Fees,,,-1.00,92.46
+22,1751158630,2025-03-20,2025-03-20 15:31,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10.00,,82.46
+23,1751158630,2025-03-20,2025-03-20 15:31,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.50,81.96
+24,1751158630,2025-03-20,2025-03-20 15:36,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10.00,,71.96
+25,1751158630,2025-03-20,2025-03-20 15:36,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.50,71.46
+26,1751158630,2025-03-22,2025-03-22 15:57,Payment Received: R Manakela,R MANAKELA,Other Income,Other Income,200.00,,,271.46
+27,1751158630,2025-03-23,2025-03-23 13:24,Banking App PayShap Payment: **** Mafumo (066 417 7737),**** MAFUMO |+27-664177737,Personal & Family,Digital Payments,,-21.00,,250.46
+28,1751158630,2025-03-23,2025-03-23 13:24,PayShap Payment Fee,|**** MAFUMO |+27-664177737,Fees,Fees,,,-1.00,249.46
+29,1751158630,2025-03-24,2025-03-22 16:23,Blondies Eating House Thohoyandou (Card 2310),BLONDIES EATING HOUSE  Thohoyandou    ZA,Entertainment,Alcohol,,-47.00,,202.46
+30,1751158630,2025-03-24,2025-03-24 08:38,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,130.00,,,332.46
+31,1751158630,2025-03-24,2025-03-24 15:25,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10.00,,322.46
+32,1751158630,2025-03-24,2025-03-24 15:25,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.50,321.96
+33,1751158630,2025-03-25,2025-03-25 00:12,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1.00,,320.96
+34,1751158630,2025-03-25,2025-03-24 08:49,S2s*familyfoodsshop Lwamondo (Card 2310),S2S*FamilyfoodsShop    Lwamondo     ZAZA,Food,Groceries,,-117.00,,203.96
+35,1751158630,2025-03-25,2025-03-22 16:53,S2s*familyfoodsshop Lwamondo (Card 2310),S2S*FamilyfoodsShop    Lwamondo     ZAZA,Food,Groceries,,-110.00,,93.96
+36,1751158630,2025-03-25,2025-03-25 13:14,Banking App PayShap Payment: **** Mafumo (066 417 7737),**** MAFUMO |+27-664177737,Personal & Family,Digital Payments,,-21.00,,72.96
+37,1751158630,2025-03-25,2025-03-25 13:14,PayShap Payment Fee,|**** MAFUMO |+27-664177737,Fees,Fees,,,-1.00,71.96
+38,1751158630,2025-03-26,2025-03-26 00:07,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1.00,,70.96
+39,1751158630,2025-03-26,2025-03-25 09:59,S2s*tshakhumashop Thulamelaloc (Card 2310),S2S*Tshakhumashop      ThulamelaLoc ZAZA,Food,Groceries,,-31.00,,39.96
+40,1751158630,2025-03-27,2025-03-27 00:05,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1.00,,38.96
+41,1751158630,2025-03-28,2025-03-28 09:31,Transfer from Live Better Savings Account (1907836622),Transfer from Live Better Savings Account (1907836622),Transfer,Transfer,3.00,,,41.96
+42,1751158630,2025-03-28,2025-03-28 09:31,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10.00,,31.96
+43,1751158630,2025-03-28,2025-03-28 09:31,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.50,31.46
+44,1751158630,2025-03-28,2025-03-28 15:43,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,50.00,,,81.46
+45,1751158630,2025-03-28,2025-03-28 17:54,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,120.00,,,201.46
+46,1751158630,2025-03-29,2025-03-29 11:23,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,80.00,,,281.46
+47,1751158630,2025-03-29,2025-03-29 11:36,Payment Received: M Mulea,M MULEA,Other Income,Other Income,220.00,,,501.46
+48,1751158630,2025-03-29,2025-03-29 11:38,Banking App Transfer to Vouncer: Transfer,Transfer,Transfer,Transfer,,-220.00,,281.46
+49,1751158630,2025-03-29,2025-03-29 12:02,Banking App PayShap Payment: **** Mafumo (066 417 7737),**** MAFUMO |+27-664177737,Personal & Family,Digital Payments,,-21.00,,260.46
+50,1751158630,2025-03-29,2025-03-29 12:02,PayShap Payment Fee,|**** MAFUMO |+27-664177737,Fees,Fees,,,-1.00,259.46
+51,1751158630,2025-03-29,2025-03-29 12:46,Banking App Transfer Received from Vouncer: Transfer,Transfer,Transfer,Transfer,220.00,,,479.46
+52,1751158630,2025-03-29,2025-03-29 12:46,Banking App PayShap Payment: **** Mulea (067 099 6778),**** MULEA |+27-670996778,Personal & Family,Digital Payments,,-220.00,,259.46
+53,1751158630,2025-03-29,2025-03-29 12:46,PayShap Payment Fee,|**** MULEA |+27-670996778,Fees,Fees,,,-1.00,258.46
+54,1751158630,2025-03-29,2025-03-29 16:13,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,70.00,,,328.46
+55,1751158630,2025-03-29,2025-03-29 16:16,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,100.00,,,428.46
+56,1751158630,2025-03-30,2025-03-28 15:45,Ik *marundu Rest Giyani (Card 2310),iK *Marundu Rest       GIYANI       LPZA,Food,Takeaways,,-39.00,,389.46
+57,1751158630,2025-03-30,2025-03-28 18:06,Caltex Lwamondo (Card 2310),CALTEX LWAMONDO        LWAMONDO     LPZA,Transport,Fuel,,-120.00,,269.46
+58,1751158630,2025-03-30,2025-03-30 14:48,Payment Received: R Manakela,R MANAKELA,Other Income,Other Income,300.00,,,569.46
+59,1751158630,2025-03-30,2025-03-30 16:13,Banking App PayShap Payment: **** Fundama (076 987 1452),**** FUNDAMA |+27-769871452,Personal & Family,Digital Payments,,-250.00,,319.46
+60,1751158630,2025-03-30,2025-03-30 16:13,PayShap Payment Fee,|**** FUNDAMA |+27-769871452,Fees,Fees,,,-1.00,318.46
+61,1751158630,2025-03-31,2025-03-31 00:13,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1.00,,317.46
+62,1751158630,2025-03-31,2025-03-29 11:37,S2s*familyfoodsshop Lwamondo (Card 2310),S2S*FamilyfoodsShop    Lwamondo     ZAZA,Food,Groceries,,-47.00,,270.46
+63,1751158630,2025-03-31,2025-03-29 16:22,S2s*familyfoodsshop Lwamondo (Card 2310),S2S*FamilyfoodsShop    Lwamondo     ZAZA,Food,Groceries,,-56.00,,214.46
+64,1751158630,2025-03-31,2025-03-29 17:13,Blondies Eating House Thohoyandou (Card 2310),BLONDIES EATING HOUSE  Thohoyandou    ZA,Entertainment,Alcohol,,-41.00,,173.46
+65,1751158630,2025-03-31,2025-03-31 08:37,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,50.00,,,223.46
+66,1751158630,2025-03-31,2025-03-31 10:20,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,90.00,,,313.46
+67,1751158630,2025-03-31,2025-03-31 12:08,Banking App PayShap Payment: **** Mafumo (066 417 7737),**** MAFUMO |+27-664177737,Personal & Family,Digital Payments,,-51.00,,262.46
+68,1751158630,2025-03-31,2025-03-31 12:08,PayShap Payment Fee,|**** MAFUMO |+27-664177737,Fees,Fees,,,-1.00,261.46
+69,1751158630,2025-03-31,2025-03-31 13:37,Payment Received: T Manakela,T MANAKELA,Other Income,Other Income,50.00,,,311.46
+70,1751158630,2025-03-31,2025-03-31 23:30,Interest Received,Interest Received,Interest,Interest,0.22,,,311.68
+71,1751158630,2025-03-31,2025-03-31 23:30,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.50,304.18
