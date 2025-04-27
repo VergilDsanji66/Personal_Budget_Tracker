@@ -1,0 +1,58 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    border-bottom: 2px solid var(--border-color);
+    margin: 0 15px;
+}
+
+.navbar .logo{
+    font-size: 1em;
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+.navbar .logo:hover{
+    color: var(--accent-color);
+    cursor: pointer;
+}
+
+.im-ex-port{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.navbar .port{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 1em;
+    background-color: var(--accent-color);
+    border: 1px solid var(--border-color);
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.navbar .port:hover{
+    background-color: var(--text-color);
+    color: var(--background-color);
+}
+.navbar .port:active{
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+.port .icon{
+    font-size: 0.8em;
+}
+
+.port .export{
+    transform: rotate(180deg);
+}
