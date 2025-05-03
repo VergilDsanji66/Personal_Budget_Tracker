@@ -83,15 +83,19 @@ const DateSelector = () => {
     ws.onmessage = (event) => {
       const data = JSON.parse(event.data);
       if (data) {
-        setSavedDates(data);  // Update savedDates when new data is received
-        if (!data.start_date && !data.end_date) {
+        setSavedDates(data.memory_db_1);  // For date display
+        
+        // Debug output to verify financial data
+        console.log("Financial Data:", data.memory_db_2); 
+        
+        if (!data.memory_db_1.start_date && !data.memory_db_1.end_date) {
           const now = new Date();
           const startOfMonth = new Date(now.getFullYear(), now.getMonth(), 1);
           const endOfMonth = new Date(now.getFullYear(), now.getMonth() + 1, 0);
-
+    
           setStartDate(startOfMonth);
           setEndDate(endOfMonth);
-          handleSubmit(startOfMonth, endOfMonth); // Optionally set and submit default date range
+          handleSubmit(startOfMonth, endOfMonth);
         }
       }
     };

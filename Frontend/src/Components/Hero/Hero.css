@@ -1,0 +1,52 @@
+.hero-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
+    padding: 2rem;
+}
+
+.hero-card {
+    border-radius: 1rem;
+    padding: 1rem;
+    border: 2px solid var(--border-color);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hero-detail{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    padding-bottom: 2rem;
+}
+
+.hero-detail .icon{
+    color: var(--accent-color);
+}
+
+.hero-detail .text{
+    color: var(--text-color);
+}
+
+.hero-detail .hero-label{
+    font-size: 1.2rem;
+    color: var(--text-color);
+}
+
+.hero-card .hero-value{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+.percentage{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.percentage-value{
+    border: 2px solid var(--border-color);
+    border-radius: 0.5rem;
+    background-color: lightgreen;
+    padding: 0.3rem;
+}
